@@ -24,6 +24,8 @@ calib_set/
 onnx_models/
 hef_models/
 har_models/
+traces/
+profiling/
 
 # Downloaded / generated datasets
 *.npz
