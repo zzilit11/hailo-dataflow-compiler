@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.env/
+venv/
+*.egg-info/
+
+# Log files
+*.log
+
+# Compiled wheels
+*.whl
+
+# Model files (HAR, HEF, ONNX 등)
+*.har
+*.hef
+*.onnx
+
+# Generated model / calibration datasets
+calib_set/
+onnx_models/
+hef_models/
+har_models/
+
+# Downloaded / generated datasets
+*.npz
+*.npy
+*.bin
+
+# Script-generated logs
+log_*.txt
+
+# Hailo compiler output
+hailo_sdk.client.log
+hailort.log

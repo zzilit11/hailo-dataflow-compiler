@@ -1,0 +1,1 @@
+quantization_param([efficientvit_b2/matmul1], force_range_in=[-5149.872, 6018.066, -292583.845, 3544.939], force_range_index=[0,1])
